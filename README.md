@@ -1,0 +1,1 @@
+# Mangage location server
