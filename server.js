@@ -3,6 +3,7 @@ import cors from "cors";
 import { ApolloServer } from "apollo-server-express";
 import schema from "./schema";
 import resolvers from "./resolvers";
+import "./connection";
 
 const app = express();
 
